@@ -1,0 +1,6 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\bin\Debug\DapperAndSqlKata.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\bin\Debug\DapperAndSqlKata.Domain.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\obj\Debug\DapperAndSqlKata.Domain.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\obj\Debug\DapperAndSqlKata.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\obj\Debug\DapperAndSqlKata.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Domain\obj\Debug\DapperAndSqlKata.Domain.pdb

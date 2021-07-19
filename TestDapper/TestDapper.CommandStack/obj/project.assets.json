@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "TestDapper.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "TestDapper.IRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TestDapper.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDapper.Domain.dll": {}
+        }
+      },
+      "TestDapper.IRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TestDapper.IRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDapper.IRepositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDapper.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TestDapper.Domain/TestDapper.Domain.csproj",
+      "msbuildProject": "../TestDapper.Domain/TestDapper.Domain.csproj"
+    },
+    "TestDapper.IRepositories/1.0.0": {
+      "type": "project",
+      "path": "../TestDapper.IRepositories/TestDapper.IRepositories.csproj",
+      "msbuildProject": "../TestDapper.IRepositories/TestDapper.IRepositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "TestDapper.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\EnricoAquilano\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\EnricoAquilano\\Desktop\\Enrico Github\\DapperAndSqlKata\\TestDapper\\TestDapper.CommandStack\\TestDapper.CommandStack.csproj",
+      "projectName": "TestDapper.CommandStack",
+      "projectPath": "C:\\Users\\EnricoAquilano\\Desktop\\Enrico Github\\DapperAndSqlKata\\TestDapper\\TestDapper.CommandStack\\TestDapper.CommandStack.csproj",
+      "packagesPath": "C:\\Users\\EnricoAquilano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EnricoAquilano\\Desktop\\Enrico Github\\DapperAndSqlKata\\TestDapper\\TestDapper.CommandStack\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\EnricoAquilano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packages.nuget.org/v1/FeedService.svc/": {},
+        "https://pkgs.dev.azure.com/LobraFutura/Efil-IPI-Wrapper/_packaging/efil.nuget/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\EnricoAquilano\\Desktop\\Enrico Github\\DapperAndSqlKata\\TestDapper\\TestDapper.Domain\\TestDapper.Domain.csproj": {
+              "projectPath": "C:\\Users\\EnricoAquilano\\Desktop\\Enrico Github\\DapperAndSqlKata\\TestDapper\\TestDapper.Domain\\TestDapper.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

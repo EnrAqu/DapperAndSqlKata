@@ -1,0 +1,12 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\DapperAndSqlKata.Infrastructure.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\DapperAndSqlKata.Infrastructure.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\Castle.Windsor.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\EFil.Utility.Configuration.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\bin\Debug\Castle.Windsor.xml
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\obj\Debug\DapperAndSqlKata.Infrastructure.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\obj\Debug\DapperAndSqlKata.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\obj\Debug\DapperAndSqlKata.Infrastructure.csproj.CopyComplete
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\obj\Debug\DapperAndSqlKata.Infrastructure.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.Infrastructure\obj\Debug\DapperAndSqlKata.Infrastructure.pdb

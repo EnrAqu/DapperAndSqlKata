@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestDapper.Domain/1.0.0": {
+        "dependencies": {
+          "TestDapper.IRepositories": "1.0.0"
+        },
+        "runtime": {
+          "TestDapper.Domain.dll": {}
+        }
+      },
+      "TestDapper.IRepositories/1.0.0": {
+        "runtime": {
+          "TestDapper.IRepositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDapper.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestDapper.IRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

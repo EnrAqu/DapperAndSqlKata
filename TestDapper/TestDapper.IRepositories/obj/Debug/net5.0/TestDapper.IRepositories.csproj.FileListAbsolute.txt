@@ -1,0 +1,12 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\bin\Debug\net5.0\TestDapper.IRepositories.deps.json
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\bin\Debug\net5.0\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\bin\Debug\net5.0\ref\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\bin\Debug\net5.0\TestDapper.IRepositories.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.AssemblyInfoInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.AssemblyInfo.cs
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\ref\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.IRepositories\obj\Debug\net5.0\TestDapper.IRepositories.pdb

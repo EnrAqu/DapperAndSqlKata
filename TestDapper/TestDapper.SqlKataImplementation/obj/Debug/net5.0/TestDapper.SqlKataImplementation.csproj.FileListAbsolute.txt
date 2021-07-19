@@ -1,0 +1,17 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.SqlKataImplementation.deps.json
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.SqlKataImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\ref\TestDapper.SqlKataImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.SqlKataImplementation.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.AssemblyInfoInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.AssemblyInfo.cs
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\ref\TestDapper.SqlKataImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.CommandStack.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.IRepositories.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\bin\Debug\net5.0\TestDapper.Domain.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.SqlKataImplementation\obj\Debug\net5.0\TestDapper.SqlKataImplementation.csprojAssemblyReference.cache

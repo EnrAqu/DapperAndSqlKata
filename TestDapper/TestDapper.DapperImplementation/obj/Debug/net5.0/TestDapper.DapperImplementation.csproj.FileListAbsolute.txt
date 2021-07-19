@@ -1,0 +1,15 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.AssemblyInfoInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.AssemblyInfo.cs
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\TestDapper.DapperImplementation.deps.json
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\TestDapper.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\ref\TestDapper.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\TestDapper.DapperImplementation.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\bin\Debug\net5.0\TestDapper.IRepositories.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.csproj.CopyComplete
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\ref\TestDapper.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.DapperImplementation\obj\Debug\net5.0\TestDapper.DapperImplementation.pdb

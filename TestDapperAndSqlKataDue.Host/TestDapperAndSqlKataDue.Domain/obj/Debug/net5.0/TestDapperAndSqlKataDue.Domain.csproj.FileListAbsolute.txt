@@ -1,0 +1,12 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\bin\Debug\net5.0\TestDapperAndSqlKataDue.Domain.deps.json
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\bin\Debug\net5.0\TestDapperAndSqlKataDue.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\bin\Debug\net5.0\ref\TestDapperAndSqlKataDue.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\bin\Debug\net5.0\TestDapperAndSqlKataDue.Domain.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.AssemblyInfoInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.AssemblyInfo.cs
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\ref\TestDapperAndSqlKataDue.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapperAndSqlKataDue.Host\TestDapperAndSqlKataDue.Domain\obj\Debug\net5.0\TestDapperAndSqlKataDue.Domain.pdb

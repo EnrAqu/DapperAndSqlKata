@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestDapper.SqlKataImplementation/1.0.0": {
+        "runtime": {
+          "TestDapper.SqlKataImplementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDapper.SqlKataImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\DapperAndSqlKata.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\DapperAndSqlKata.DapperImplementation.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\Dapper.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\DapperAndSqlKata.Infrastructure.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\DapperAndSqlKata.Infrastructure.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\bin\Debug\Dapper.xml
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\obj\Debug\DapperAndSqlKata.DapperImplementation.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\obj\Debug\DapperAndSqlKata.DapperImplementation.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\obj\Debug\DapperAndSqlKata.DapperImplementation.csproj.CopyComplete
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\obj\Debug\DapperAndSqlKata.DapperImplementation.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\DapperAndSqlKata\DapperAndSqlKata.DapperImplementation\obj\Debug\DapperAndSqlKata.DapperImplementation.pdb

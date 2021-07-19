@@ -1,0 +1,15 @@
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\TestDapper.Domain.deps.json
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\TestDapper.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\ref\TestDapper.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\TestDapper.Domain.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\TestDapper.IRepositories.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\bin\Debug\net5.0\TestDapper.IRepositories.pdb
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.csprojAssemblyReference.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.AssemblyInfoInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.AssemblyInfo.cs
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.csproj.CopyComplete
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\ref\TestDapper.Domain.dll
+C:\Users\EnricoAquilano\Desktop\Enrico Github\DapperAndSqlKata\TestDapper\TestDapper.Domain\obj\Debug\net5.0\TestDapper.Domain.pdb
